@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "822722663792",
+    "firebase_url": "https://disasteralert-385b8.firebaseio.com",
+    "project_id": "disasteralert-385b8",
+    "storage_bucket": "disasteralert-385b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822722663792:android:ae027985b94bcc5b",
+        "android_client_info": {
+          "package_name": "io.ionic.disasterAlert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822722663792-6bb0t209ilr6lmntg6vhh28v66162b2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYbb-t27XtUzjbcFzsXcf1tM8dTqAYY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
